@@ -9,5 +9,5 @@ public interface AccountDao {
 	
 	public Account findAccountById(int accountNo);
 	
-
+//Bank App demo project...
 }
